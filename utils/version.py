@@ -1,0 +1,2 @@
+LAST_VERSION = 'v0.9.5'
+VERSION = 'v0.9.6'

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "target": "es6",
+    "allowJs": true,
+    "types": [
+      "@babylonjs/core",
+      "@babylonjs/gui",
+      "@types/mocha"
+    ],
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  }
+}
